@@ -21,6 +21,8 @@ public class CopyBytes {
 			} 
 			if (out !=null){
 				out.close();
+				
+		system.out.println(in);
 
 			}
 		}
